@@ -44,7 +44,7 @@ export const Products = () => {
           <TableHead>
             <TableRow>
               <TableCell>Id</TableCell>
-              <TableCell> Amount </TableCell>
+              <TableCell> Name </TableCell>
               <TableCell>Price</TableCell>
             </TableRow>
           </TableHead>
