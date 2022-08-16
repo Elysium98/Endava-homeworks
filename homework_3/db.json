@@ -1,0 +1,62 @@
+{
+  "orders": [
+    {
+      "id": "2ee3bbdf-8c77-4b07-bc72-50e3f7d26a91",
+      "products": [
+        {
+          "id": "f491ca8b-3bbc-4a22-b107-533b0e7fc957",
+          "name": "Milk",
+          "price": 5,
+          "quantity": 2
+        },
+        {
+          "id": "99edb0da-ae83-4845-b0a1-7b13a663bec5",
+          "name": "Sugar",
+          "price": 15,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 25,
+      "address": "Str.Nicolae Titulescu nr2, Brasov"
+    },
+    {
+      "id": "d40aa640-17b6-11ed-861d-0242ac120002",
+      "products": [
+        {
+          "id": "f26e3a02-ebdd-4a01-8956-a3d4590b5cb2",
+          "name": "Bread",
+          "price": 1,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 2,
+      "address": "Strada Brasovului nr 2"
+    }
+  ],
+  "products": [
+    {
+      "id": "f491ca8b-3bbc-4a22-b107-533b0e7fc957",
+      "name": "Cake",
+      "price": 5,
+      "nedeedIngredients": ["eggs", "milk"]
+    },
+    {
+      "id": "99edb0da-ae83-4845-b0a1-7b13a663bec5",
+      "name": "Brownie",
+      "price": 15,
+      "nedeedIngredients": ["eggs", "milk", "cocoa"]
+    },
+    {
+      "id": "f26e3a02-ebdd-4a01-8956-a3d4590b5cb2",
+      "name": "Snow White",
+      "price": 3,
+      "nedeedIngredients": ["eggs", "milk", "vanilla"]
+    },
+    {
+      "id": "f491ca8b-3bbc-4a22-b107-533b0e7fc957",
+      "name": "Cheesecake",
+      "price": 5,
+      "nedeedIngredients": ["eggs", "milk", "fresh cheese"]
+    }
+  ]
+}
