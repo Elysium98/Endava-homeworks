@@ -1,0 +1,48 @@
+{
+  "ingredients": [
+    {
+      "id": "f491ca8b-3bbc-4a22-b107-533b0e7fc957",
+      "name": "Milk",
+      "price": 5,
+      "quantity": 2
+    },
+    {
+      "id": "99edb0da-ae83-4845-b0a1-7b13a663bec5",
+      "name": "Sugar",
+      "price": 15,
+      "quantity": 12
+    },
+    {
+      "id": "99edb0da-ae83-4845-b0a1-7b13a663bec57",
+      "name": "Chocolate",
+      "price": 20,
+      "quantity": 9
+    }
+  ],
+  "products": [
+    {
+      "id": "f491ca8b-3bbc-4a22-b107-533b0e7fc957",
+      "name": "Cake",
+      "price": 5,
+      "time": 40
+    },
+    {
+      "id": "99edb0da-ae83-4845-b0a1-7b13a663bec5",
+      "name": "Brownie",
+      "price": 15,
+      "time": 50
+    },
+    {
+      "id": "f26e3a02-ebdd-4a01-8956-a3d4590b5cb2",
+      "name": "Snow White",
+      "price": 36,
+      "time": 60
+    },
+    {
+      "id": "f491ca8b-3bbc-4a22-b107-533b0e7fc95733",
+      "name": "Cheesecake",
+      "price": 25,
+      "time": 35
+    }
+  ]
+}
