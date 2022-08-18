@@ -1,13 +1,13 @@
 ## Product list
-![1](1.png)
+![1](screenshots/1.png)
 ## Product detail
-![2](8.png)
+![2](screenshots/8.png)
 ## Deposit
-![3](2.png)
+![3](screenshots/2.png)
 ## Add a product
-![4](4.png)
+![4](screenshots/4.png)
 ## Update a product
-![5](3.png)
+![5](screenshots/3.png)
 
 
 # Getting Started with Create React App
